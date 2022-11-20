@@ -15,7 +15,7 @@
 ## Definición de variables
 
 ##Variable a cambiar. Podría ser un parámetro de entrada. Pon tu número de alumno
-NN=30
+NN=02
 ###############################################################################
 AWS_VPC_CIDR_BLOCK=10.22.0.0/16
 AWS_Subred_CIDR_BLOCK=10.22.1$NN.0/24
